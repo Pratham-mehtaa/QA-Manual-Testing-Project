@@ -1,7 +1,7 @@
 # QA-Manual-Testing-Project
 # Manual Testing Project
 
-Tested: [Website Name]
+Tested: [Wordpress]
 
 ## Scope
 - Functional Testing
