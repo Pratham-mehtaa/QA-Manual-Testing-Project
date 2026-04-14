@@ -13,4 +13,4 @@ Tested: Wordpress
 - Bug Reports
 
 ## Tools Used
-- Google Sheets / Excel
+- Excel
